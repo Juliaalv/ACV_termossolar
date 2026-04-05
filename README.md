@@ -65,7 +65,6 @@ Os arquivos estáticos ficam em `dist/`.
 ## Referências
 
 - Kalogirou, S.A. — *Solar Energy Engineering: Processes and Systems*, Chapter 12
-- Duffie, J.A. & Beckman, W.A. — *Solar Engineering of Thermal Processes*
 - NBR 15569:2021 — Sistemas de aquecimento solar de água
 
 ## Licença
