@@ -1,4 +1,4 @@
-# ☀ Análise Econômica Solar — Kalogirou Cap. 12
+#  Análise Econômica Solar — Kalogirou Cap. 12
 
 Ferramenta interativa para análise econômica de sistemas de energia solar, baseada no **Capítulo 12** do livro *Engenharia de Energia Solar* de **Soteris Kalogirou**.
 
